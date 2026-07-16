@@ -1,0 +1,17 @@
+result-system
+│
+├── index.html
+├── style.css
+├── script.js
+│
+├── images
+│     ├── logo.png
+│     ├── ministry.png
+│     └── background.jpg
+│
+└── icons
+      ├── home.png
+      ├── scientific.png
+      ├── literary.png
+      └── download.png
+      
